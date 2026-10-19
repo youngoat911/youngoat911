@@ -51,31 +51,6 @@ const ankit = {
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp&theme=dark" alt="Languages"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/>
-
-**Backend and Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend"/>
-
-**IoT, Realtime and Tools**
-
-<img src="https://skillicons.dev/icons?i=arduino,git,github,linux,vscode&theme=dark" alt="Tools"/>
-<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="48" height="48" alt="Socket.io"/>
-
-</div>
-
-<br/>
-
 ## Featured Projects
 
 <table width="100%">
