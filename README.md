@@ -68,7 +68,7 @@ E-commerce platform for personalized gifts.
 - Image upload and management with Cloudinary
 - Fully responsive design
 
-<a href="https://github.com/ankitkumar25-rk/photowalagift"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/youngoat911/photowalagift"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://photowalagift.online"><img src="https://img.shields.io/badge/Live_Demo-C8622A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 </td>
@@ -85,7 +85,7 @@ Campus task exchange platform with secure verification and a reputation system.
 - User reputation mechanics
 - Real-time notifications
 
-<a href="https://github.com/ankitkumar25-rk/BrinX-new"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/youngoat911/BrinX-new"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ AI-powered freshness tracking that combines IoT sensors with machine learning.
 - Interactive dashboard
 - WebSocket communication via Socket.io
 
-<a href="https://github.com/ankitkumar25-rk/freshscan"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/youngoat911/freshscan"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ Real-time chat application showcasing WebSocket architecture and a clean modern 
 - Modern UI and UX
 - Scalable architecture
 
-<a href="https://github.com/ankitkumar25-rk/WhatChat"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/youngoat911/WhatChat"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -133,7 +133,6 @@ Real-time chat application showcasing WebSocket architecture and a clean modern 
 
 I am open to collaborations, freelance projects and interesting conversations about building products.
 
-<a href="https://github.com/ankitkumar25-rk"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44"/></a>
 &nbsp;
 <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44"/></a>
 &nbsp;
