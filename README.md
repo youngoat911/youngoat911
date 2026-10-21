@@ -149,24 +149,3 @@
 </table>
 
 ---
-
-### Core Stack
-
-<table width="100%">
-  <tr>
-    <td width="22%"><b>Frontend</b></td>
-    <td width="78%"><kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>Framer Motion</kbd> <kbd>Vite</kbd></td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td><kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>PostgreSQL</kbd> <kbd>Prisma</kbd> <kbd>MongoDB</kbd> <kbd>SQLite WAL</kbd> <kbd>Valkey</kbd> <kbd>Socket.IO</kbd></td>
-  </tr>
-  <tr>
-    <td><b>Security & Auth</b></td>
-    <td><kbd>PASETO v4</kbd> <kbd>JWT</kbd> <kbd>Google OAuth</kbd> <kbd>Zod</kbd> <kbd>Helmet</kbd> <kbd>Rate Limiting</kbd></td>
-  </tr>
-  <tr>
-    <td><b>Systems & Tooling</b></td>
-    <td><kbd>Linux (/proc, PSI, systemd)</kbd> <kbd>VS Code Extension API</kbd> <kbd>PDF.js</kbd> <kbd>Tesseract.js</kbd> <kbd>Vitest</kbd></td>
-  </tr>
-</table>
