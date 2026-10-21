@@ -1,143 +1,172 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8622A,100:7A2E0E&height=220&section=header&text=Ankit&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20IIT%20Jodhpur&descSize=18&descAlignY=60" width="100%"/>
+<h2>Ankit Kumar</h2>
+<p><b>B.Tech @ IIT Jodhpur</b> &nbsp;·&nbsp; Building production web platforms, developer tools, and Linux system software.</p>
 
-<a href="https://github.com/ankitkumar25-rk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C8622A&center=true&vCenter=true&width=640&lines=Building+web+applications;Working+with+React+and+Node.js;Experimenting+with+IoT+and+AI;Always+learning" alt="Typing intro"/>
-</a>
-
-<br/>
-
-<a href="https://photowalagift.online"><img src="https://img.shields.io/badge/PhotowalaGift-C8622A?style=for-the-badge&logo=shopify&logoColor=white" alt="PhotowalaGift"/></a>
-<a href="https://youngoat.dev/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/ankitkumar25-rk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p>
+  <a href="https://youngoat.dev"><kbd>youngoat.dev ↗</kbd></a>&nbsp;
+  <a href="https://photowalagift.online"><kbd>photowalagift.online ↗</kbd></a>&nbsp;
+  <a href="https://github.com/youngoat911"><kbd>GitHub</kbd></a>&nbsp;
+  <a href="https://www.linkedin.com"><kbd>LinkedIn</kbd></a>&nbsp;
+  <a href="mailto:ankitgia336@gmail.com"><kbd>Email</kbd></a>
+</p>
 
 </div>
 
-<br/>
+---
 
-## About
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I am a second-year B.Tech student at **IIT Jodhpur**. I build web applications, experiment with IoT hardware, and work on LLM integrations in my projects.
-
-<img src="https://cdn.simpleicons.org/react/C8622A" width="16" height="16"/>&nbsp; Web applications<br/>
-<img src="https://cdn.simpleicons.org/arduino/C8622A" width="16" height="16"/>&nbsp; IoT solutions with live dashboards<br/>
-<img src="https://cdn.simpleicons.org/googlegemini/C8622A" width="16" height="16"/>&nbsp; AI and LLM integrations<br/>
-<img src="https://cdn.simpleicons.org/github/C8622A" width="16" height="16"/>&nbsp; Open source contributions<br/>
-<img src="https://cdn.simpleicons.org/rocket/C8622A" width="16" height="16"/>&nbsp; Entrepreneurship and product development
-
-</td>
-<td width="40%" valign="top">
-
-```ts
-const ankit = {
-  role: "Web Developer",
-  education: "B.Tech, IIT Jodhpur",
-  focus: ["Web Apps", "IoT", "AI"],
-  currentlyBuilding: "PhotowalaGift",
-  openTo: ["Collaboration", "Open Source"],
-};
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
+### Featured Work
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/shopify/C8622A" width="22" height="22"/>&nbsp; PhotowalaGift
-
-E-commerce platform for personalized gifts.
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,postgres,prisma&theme=dark" alt="PhotowalaGift stack"/>
-
-- Personalized gift customization
-- Secure payments via Razorpay
-- Image upload and management with Cloudinary
-- Fully responsive design
-
-<a href="https://github.com/youngoat911/photowalagift"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://photowalagift.online"><img src="https://img.shields.io/badge/Live_Demo-C8622A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/target/C8622A" width="22" height="22"/>&nbsp; BrinX
-
-Campus task exchange platform with secure verification and a reputation system.
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="BrinX stack"/>
-
-- OTP and roll-number verification
-- Bidding system for tasks
-- User reputation mechanics
-- Real-time notifications
-
-<a href="https://github.com/youngoat911/BrinX-new"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/arduino/C8622A" width="22" height="22"/>&nbsp; FreshScan
-
-AI-powered freshness tracking that combines IoT sensors with machine learning.
-
-<img src="https://skillicons.dev/icons?i=arduino,nodejs,react&theme=dark" alt="FreshScan stack"/>
-
-- Real-time sensor data monitoring
-- AI-based image analysis (Gemini / GPT)
-- Interactive dashboard
-- WebSocket communication via Socket.io
-
-<a href="https://github.com/youngoat911/freshscan"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/socketdotio/C8622A" width="22" height="22"/>&nbsp; WhatChat
-
-Real-time chat application showcasing WebSocket architecture and a clean modern UI.
-
-<img src="https://skillicons.dev/icons?i=react,express,nodejs&theme=dark" alt="WhatChat stack"/>
-
-- Real-time messaging
-- Multiple chat rooms
-- Modern UI and UX
-- Scalable architecture
-
-<a href="https://github.com/youngoat911/WhatChat"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/youngoat911/Photowalagift"><b>PhotowalaGift</b></a> &nbsp;<kbd>Production · E-Commerce</kbd> &nbsp;·&nbsp; <a href="https://photowalagift.online"><samp>live ↗</samp></a>
+      </p>
+      <p>
+        End-to-end personalized gifting and trophy marketplace. Handles custom product configuration, customer image uploads, checkout, and order fulfillment through an admin dashboard.
+      </p>
+      <sub><samp>React · Vite · Node.js · PostgreSQL · Prisma · Razorpay · Cloudinary</samp></sub>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/devlup-labs/CogniOS"><b>CogniOS</b></a> &nbsp;<kbd>Linux · Observability</kbd>
+      </p>
+      <p>
+        User-space Linux telemetry, workload prioritization, and crash-forensics platform. Built the <b>BlackBox</b> 30-minute circular SQLite WAL flight recorder, T-minus anomaly replay, <code>notify-send</code> alerts, and systemd installer.
+      </p>
+      <sub><samp>Python · Linux /proc & PSI · SQLite WAL · XGBoost · Groq · systemd</samp></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/youngoat911/BrinX-new"><b>BrinX</b></a> &nbsp;<kbd>Campus Marketplace</kbd>
+      </p>
+      <p>
+        Peer-to-peer campus task exchange for IIT Jodhpur students. Features IITJ email and roll-number verification, reverse-auction bidding, SOS urgent tasks, skill-gate quizzes, proof-of-completion escrow, and reputation decay.
+      </p>
+      <sub><samp>Node.js · Express · MongoDB · JWT · Google OAuth · Nodemailer</samp></sub>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/youngoat911/WhatChat"><b>WhatChat</b></a> &nbsp;<kbd>Real-Time Web</kbd>
+      </p>
+      <p>
+        Multi-room real-time chat application built over WebSockets. Supports room-based instant messaging, live participant rosters, automatic scroll-to-latest, and an animated React interface.
+      </p>
+      <sub><samp>React · Vite · Node.js · Express · Socket.IO · Tailwind CSS</samp></sub>
+    </td>
+  </tr>
 </table>
 
-<br/>
+---
 
-## Connect
+### More Projects
 
-<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="24%">Project</th>
+      <th align="left" width="52%">Overview</th>
+      <th align="left" width="24%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/Texter"><b>Texter</b></a><br/>
+        <sub><kbd>VS Code Extension</kbd></sub>
+      </td>
+      <td valign="top">
+        Converts scanned and technical PDFs into TXT or Markdown via a hybrid PDF.js and worker-pooled Tesseract OCR pipeline with math/Greek symbol normalization and a side-by-side visual webview.
+      </td>
+      <td valign="top">
+        <sub><samp>TypeScript · VS Code API · PDF.js · Tesseract.js</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/edumeasy_site"><b>EduMEasy</b></a><br/>
+        <sub><kbd>EdTech Commerce</kbd></sub>
+      </td>
+      <td valign="top">
+        B2B/B2C platform supplying Math Labs and Math Kits to schools across India with PASETO v4 local tokens, Valkey rate limiting, structured logging, and Razorpay checkout.
+      </td>
+      <td valign="top">
+        <sub><samp>React 19 · Express · PostgreSQL · Prisma · PASETO</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/Inventory"><b>Gymkhana Inventory</b></a><br/>
+        <sub><kbd>Institutional Ops</kbd></sub>
+      </td>
+      <td valign="top">
+        Equipment lending and asset tracker with RBAC, loan renewals, and a deduplicated alert lifecycle (<code>open → acknowledged → resolved</code>) for overdue and low-stock items.
+      </td>
+      <td valign="top">
+        <sub><samp>Express 5 · PostgreSQL · React · PASETO · Vitest</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/summercamp-edumeasy"><b>EduMEasy Camp</b></a><br/>
+        <sub><kbd>Live EdTech</kbd></sub>
+      </td>
+      <td valign="top">
+        Gamified algebra portal for Classes 6–10 featuring Rookie-to-Wizard XP progression, live leaderboards, attendance tracking, and Razorpay camp enrollment.
+      </td>
+      <td valign="top">
+        <sub><samp>React · Vite · Express · MongoDB · PASETO</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/von-neumaan_arch"><b>Von Neumann Arch</b></a><br/>
+        <sub><kbd>3D Visualization</kbd></sub>
+      </td>
+      <td valign="top">
+        Interactive 3D simulation of CPU fetch-decode-execute cycles, bus transfers, and register state transitions with an animated HUD control panel.
+      </td>
+      <td valign="top">
+        <sub><samp>Next.js · TypeScript · Three.js · Zustand</samp></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/youngoat911/KarkhanaX"><b>KarkhanaX</b></a><br/>
+        <sub><kbd>Manufacturing</kbd></sub>
+      </td>
+      <td valign="top">
+        Integrated fabrication and manufacturing support-centre portal for coordinating shop-floor workflows, equipment access, and technical services.
+      </td>
+      <td valign="top">
+        <sub><samp>TypeScript · JavaScript · CSS</samp></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-I am open to collaborations, freelance projects and interesting conversations about building products.
+---
 
-&nbsp;
-<a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44"/></a>
-&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44"/></a>
+### Core Stack
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8622A,100:7A2E0E&height=110&section=footer" width="100%"/>
+<table width="100%">
+  <tr>
+    <td width="22%"><b>Frontend</b></td>
+    <td width="78%"><kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>Framer Motion</kbd> <kbd>Vite</kbd></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Data</b></td>
+    <td><kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>PostgreSQL</kbd> <kbd>Prisma</kbd> <kbd>MongoDB</kbd> <kbd>SQLite WAL</kbd> <kbd>Valkey</kbd> <kbd>Socket.IO</kbd></td>
+  </tr>
+  <tr>
+    <td><b>Security & Auth</b></td>
+    <td><kbd>PASETO v4</kbd> <kbd>JWT</kbd> <kbd>Google OAuth</kbd> <kbd>Zod</kbd> <kbd>Helmet</kbd> <kbd>Rate Limiting</kbd></td>
+  </tr>
+  <tr>
+    <td><b>Systems & Tooling</b></td>
+    <td><kbd>Linux (/proc, PSI, systemd)</kbd> <kbd>VS Code Extension API</kbd> <kbd>PDF.js</kbd> <kbd>Tesseract.js</kbd> <kbd>Vitest</kbd></td>
+  </tr>
+</table>
