@@ -99,14 +99,6 @@
     </tr>
     <tr>
       <td valign="top">
-        Equipment lending and asset tracker with RBAC, loan renewals, and a deduplicated alert lifecycle (<code>open → acknowledged → resolved</code>) for overdue and low-stock items.
-      </td>
-      <td valign="top">
-        <sub><samp>Express 5 · PostgreSQL · React · PASETO · Vitest</samp></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
         <a href="https://github.com/youngoat911/summercamp-edumeasy"><b>EduMEasy Camp</b></a><br/>
         <sub><kbd>Live EdTech</kbd></sub>
       </td>
