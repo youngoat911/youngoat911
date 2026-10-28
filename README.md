@@ -1,6 +1,9 @@
 <div align="left">
 
-<h2>Ankit Kumar</h2>
+<a href="https://github.com/youngoat911">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2563EB&center=false&vCenter=true&width=360&lines=Ankit+Kumar" alt="Ankit Kumar" />
+</a>
+
 <p><b>B.Tech @ IIT Jodhpur</b> &nbsp;·&nbsp; Building production web platforms, developer tools, and Linux system software.</p>
 
 <p>
